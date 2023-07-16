@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "clean": "del ./build/*",
     "build": "npm run clean && tsc",
-    "pub": "npm version patch && npm run build && npm publish"
+    "pub": "npm version patch && npm run build && npm publish --access public"
   },
   "author": "",
   "license": "ISC",
