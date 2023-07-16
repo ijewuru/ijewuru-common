@@ -24,3 +24,5 @@ class StatusCodes {
   public static InternalServerError: number = 500;
   public static ServiceUnavailable: number = 503;
 }
+
+export { StatusCodes };
