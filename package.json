@@ -1,6 +1,6 @@
 {
   "name": "@ijewuru/common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common package for all ijewuru services",
   "main": "build/index.js",
   "types": "./build/index.d.ts",
